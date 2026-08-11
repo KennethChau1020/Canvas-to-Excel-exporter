@@ -17,19 +17,6 @@ Automatically fetch your Canvas LMS assignments and export them into a beautiful
 - Python 3.8 or higher
 - A Canvas LMS account
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd canvas-to-excel
-   ```
-
-2. **Install required packages:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## ⚙️ Configuration
 
 1. **Get your Canvas API Token:**
